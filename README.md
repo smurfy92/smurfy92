@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Jules former 42 student and dev passionate.
+My name is Jules 42 alumni and dev passionate. I am currently working at Coinhouse
 
 
 ---
