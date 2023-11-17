@@ -9,7 +9,7 @@ My name is Jules, 42 alumni (level 21, senior diploma) and dev passionate. I am 
 - 🏦 I'm a fullstack software engineer working near Paris, France.
 - 📝 I create software, APIs, websites, mobile apps.
 - 💬 I am interested in contributing to open source software.
-- 🔭 I am currently working on some private projects.
+- 🔭 I am currently studying ai.
 
 #### Fun facts
 - I was a rolland garros baller and even met Marat Safin in-person who gave me his wrist band
